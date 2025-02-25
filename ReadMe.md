@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate software developer !!<br>🖥️ See my portfolio at my portfolio<br><br>📫 How to reach me: mujumujthaba020@gmail.com<br><br>🌱 I’m currently working with Flutter<br><br>🌍 I'm based in Calicut, Kerala.<br><br>
+I'm a passionate software developer !!<br>🖥️ See my portfolio at my portfolio<br><br>📫 How to reach me: mujthabakk9@gmail.com<br><br>🌱 I’m currently working with Flutter<br><br>🌍 I'm based in Calicut, Kerala.<br><br>
 
 
 ## 🌐 Socials:
